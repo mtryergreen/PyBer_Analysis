@@ -3,6 +3,10 @@
 ## Purpose
 The purpose of this analysis is to create a summary dataframe of the ride sharing dataframe of the ride sharing data by city type. I'll create a multi-line graph that shows the total weekly fares for each city type using Pandas as Matplotlib. In conclusion, this report summarizes how the data differs by city type and how those differences can be used by decision makers at PyBer. 
 
+The data I worked with included city_data.csv, which included a list of cities, their driver count, and city type (urban, suburban, rural); and ride_data.csv, which included city, date, fare, and ride_id. These datasets were merged into one dataframe for ease of analysis:
+![Screen Shot 2021-11-17 at 1 29 11 PM](https://user-images.githubusercontent.com/89936913/142285420-148e4baa-4bbd-4169-b0de-41d293c66741.png)
+
+
 ## Deliverable 1
 Deliverable 1 is a ride-sharing summary Dataframe by city type
 
