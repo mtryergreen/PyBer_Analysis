@@ -30,8 +30,11 @@ This analysis was conducted in order to analyze trends amongst the rides, driver
 
 # Results
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+
 Rural cities have the lowest number of rides and drivers, but have the highest average fare per driver at $55.49, meaning that most of the drivers should have good opportunity and pay. The total fares in rural cities in $4,327.93 with an average fare per ride of $34.62. This fare per ride is the highest of the three city types, which makes sense as rural destinations are farther apart than they are usually in cities where buildings are packed close together. 
+
 Suburban cities have a similar ratio of rides to drivers available, with a second highest average fare per driver of $39.50, so suburban drivers should have good opportunity and high demand, though not as good pay as in rural cities. The total fares in suburban cities are at $19,356.33 with an an average fare per ride at $30.97. 
+
 Urban cities have a ratio of rides to drivers that is problematic for drivers, as there are too many of them and average wages are low ($16.57) per driver. Urban cities see a total fare of $39,854.38 with the average fare per ride at $16.57, which again makes sense because there are lots of drivers to choose from and destinations can be closer together. 
 
 <img width="231" alt="Screen Shot 2021-11-21 at 5 31 44 PM" src="https://user-images.githubusercontent.com/89936913/142788360-e775c5d7-5eee-479e-a4ff-fcf5d6802559.png">
