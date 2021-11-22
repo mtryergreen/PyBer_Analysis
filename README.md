@@ -25,10 +25,10 @@ Urban cities have the highest total fares in USD, meaning more rides happen here
 ## Deliverable 3
 Deliverable 3 is a written report for the Pyber analysis in the form of a ReadMe.md file
 
-#Overview of the anaysis:
+# Overview of the anaysis:
 This analysis was conducted in order to analyze trends amongst the rides, drivers, fares and city types so as to give Pyber recommendations as to how best strategize in the future. I merged datasets and produced visualizations so that all three city types (urban, rural and suburban) could be compared easily. 
 
-#Results
+# Results
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 Rural cities have the lowest number of rides and drivers, but have the highest average fare per driver at $55.49, meaning that most of the drivers should have good opportunity and pay. The total fares in rural cities in $4,327.93 with an average fare per ride of $34.62. This fare per ride is the highest of the three city types, which makes sense as rural destinations are farther apart than they are usually in cities where buildings are packed close together. 
 Suburban cities have a similar ratio of rides to drivers available, with a second highest average fare per driver of $39.50, so suburban drivers should have good opportunity and high demand, though not as good pay as in rural cities. The total fares in suburban cities are at $19,356.33 with an an average fare per ride at $30.97. 
@@ -38,8 +38,9 @@ Urban cities have a ratio of rides to drivers that is problematic for drivers, a
 
 
 
-#Summary
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types
+# Summarizing statement and business recommendations
+Overall, the disparities between the city types come down to the number of drivers available and the number of rides being requested. 
+
 As for what business recommendations this analysis can support:
 1. Attaining more drivers in rural cities and more riders in urban cities, all through better advertising directed at both customers and workers. This would bring the ratios of rides to available drivers of rural and urban cities closer together, and raise overall wages. 
 2. Reducing the number of active drivers in urban cities so that there aren't so many waiting on giving a ride, which would raise the incomes of drivers that are working consistently. 
