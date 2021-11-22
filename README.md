@@ -16,5 +16,8 @@ Deliverable 1 is a ride-sharing summary Dataframe by city type
 ## Deliverable 2
 Deliverable 2 is a multiple-line chart of total fares for each city type
 
+<img width="605" alt="Screen Shot 2021-11-21 at 4 06 56 PM" src="https://user-images.githubusercontent.com/89936913/142784609-2f1cd224-5807-47b6-86d0-3417dd8654c0.png">
+
+
 ## Deliverable 3
 Deliverable 3 is a written report for the Pyber analysis in the form of a ReadMe.md file
