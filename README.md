@@ -8,25 +8,19 @@ The data I worked with included city_data.csv, which included a list of cities, 
 ![Screen Shot 2021-11-17 at 1 29 11 PM](https://user-images.githubusercontent.com/89936913/142285420-148e4baa-4bbd-4169-b0de-41d293c66741.png)
 
 
-## Deliverable 1
-Deliverable 1 is a ride-sharing summary Dataframe by city type
-
+## Deliverable 1: Summary Dataframe by City Type
 ![Screen Shot 2021-11-18 at 10 57 03 PM](https://user-images.githubusercontent.com/89936913/142579159-e48ae335-caeb-4bfd-a984-c327c627c0a8.png)
 
 Rural cities have the highest average fare per ride and lowest number of total drivers, while urban cities have the lowest average fare and the biggest number of total drivers. This makes sense, as rural cities have drivers few and far inbetween, while it's much easier to find work as a driver in larger cities like New York or San Francisco. Urban cities also have more drivers (2,405) than rides (1,625), which means many drivers spend time waiting for the next customer. 
 
-## Deliverable 2
-Deliverable 2 is a multiple-line chart of total fares for each city type
-
+## Deliverable 2: Line Chart of Total Fares by City Type
 <img width="605" alt="Screen Shot 2021-11-21 at 4 06 56 PM" src="https://user-images.githubusercontent.com/89936913/142784609-2f1cd224-5807-47b6-86d0-3417dd8654c0.png">
 
 Urban cities have the highest total fares in USD, meaning more rides happen here overall, as evidenced by the fact that urban cities see over 10x the number of rides than rural cities. 
 
-## Deliverable 3
-Deliverable 3 is a written report for the Pyber analysis in the form of a ReadMe.md file
 
 # Overview of the anaysis:
-This analysis was conducted in order to analyze trends amongst the rides, drivers, fares and city types so as to give Pyber recommendations as to how best strategize in the future. I merged datasets and produced visualizations so that all three city types (urban, rural and suburban) could be compared easily. 
+This analysis was conducted in order to analyze trends amongst the rides, drivers, fares and city types so as to give Pyber recommendations as to how they could better strategize in the future. I merged datasets and produced visualizations so that all three city types (urban, rural and suburban) could be compared easily. 
 
 # Results
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
